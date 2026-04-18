@@ -155,7 +155,7 @@ Serves as a bridge between `Player` and the UI.
 Clone the project
 
 ```bash
-git clone https://github.com/amadeuio/battleship
+git clone https://github.com/amadeuserras/battleship
 ```
 
 Go to the project directory
